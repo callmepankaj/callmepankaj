@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @callmepankaj
+- 👋 Hi, I’m Pankaj.
 - 👀 I’m interested in ... Frontend Development, Cyber Security and UX Designing
 - 🌱 I’m currently learning ... Reactjs
 - 💞️ I’m looking to collaborate on ... JavaScript
