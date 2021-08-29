@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Frontend Development, Cyber Security and UX Designing
 - 🌱 I’m currently learning ... Reactjs
 - 💞️ I’m looking to collaborate on ... JavaScript
-- 📫 How to reach me ... panmaurya23@gmail.com
+- 📫 How to reach me ... pankmaurya23@gmail.com
 
 <!---
 callmepankaj/callmepankaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
